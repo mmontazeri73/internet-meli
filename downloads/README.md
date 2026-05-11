@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [dl](./dl)
+- [dl_lambda](./dl_lambda)
 
 ---
 
